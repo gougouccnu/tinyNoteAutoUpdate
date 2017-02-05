@@ -1,5 +1,5 @@
 {
   "url":"https://github.com/gougouccnu/tinyNoteAutoUpdate/blob/master/tinyNotev1.2.apk?raw=true",
-  "versionCode":3,
-  "updateMessage":"1. 新增自动更新功能;<br/>2. 修复了部分机型闪退等Bug;"
+  "versionCode":4,
+  "updateMessage":"1. 增加未保存的笔记恢复功能;<br/>2. 笔记位置可以修改;"
 }
